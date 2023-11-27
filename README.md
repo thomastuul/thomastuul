@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Thomas
 - 👀 I’m interested in GNU/linux and open source
-- 📫 How to reach me: thomas.tuul@online.de
+- 📫 How to reach me: thomas.tuul at online.de
 
 <!---
 thomastuul/thomastuul is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
