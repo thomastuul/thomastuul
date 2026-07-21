@@ -12,10 +12,6 @@ My technical home is somewhere between **embedded systems**, **Linux**, electron
 - Microcontrollers, bootloaders, CAN, CANopen, and LIN
 - Testing, static analysis, simulation, and control systems
 
-## How I work
-
-I like breaking complex problems into clear parts and understanding *why* something works—not just *that* it works.
-
 My background spans electronics, communications engineering, rail systems, medical technology, and robotics.
 
 This GitHub profile is where I share personal projects, experiments, and solutions that may be useful to others.
