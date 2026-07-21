@@ -1,30 +1,21 @@
-# Hallo, ich bin Thomas 👋
+# Hi, I'm Thomas 👋
 
-Ich mag Software besonders dann, wenn sie nicht nur auf einem Bildschirm lebt, sondern etwas in der echten Welt bewegt, misst oder steuert.
+I enjoy building software that reaches beyond the screen and interacts with the real world.
 
-Mein technisches Zuhause liegt irgendwo zwischen **Embedded Systems**, **Linux**, **Elektronik** und der Frage: *Wie lässt sich das noch etwas robuster, klarer oder eleganter lösen?* Dabei tüftele ich ebenso gern nah an der Hardware wie an den Werkzeugen, die Entwicklung und Tests angenehmer machen.
+My technical home is somewhere between **embedded systems**, **Linux**, electronics, and reliable developer tooling.
 
-## Womit ich mich gern beschäftige
+## What I work with
 
-- hardwarenahe Entwicklung mit **C und C++**
-- kleine und größere Helfer in **Python und Bash**
-- **Linux**, Build-Systeme, Automatisierung und reproduzierbare Entwicklungsumgebungen
-- Mikrocontroller, Bootloader und Kommunikation über **CAN, CANopen und LIN**
-- Regelungstechnik, Simulation sowie die Verbindung von Modell und realem System
-- Tests, statische Analyse und Software, die auch unter realen Bedingungen zuverlässig bleibt
+- Embedded development in **C and C++**
+- Practical tools and automation in **Python and Bash**
+- **Linux**, CMake, Docker, CI/CD, and reproducible environments
+- Microcontrollers, bootloaders, CAN, CANopen, and LIN
+- Testing, static analysis, simulation, and control systems
 
-## Was mir dabei wichtig ist
+## How I work
 
-Ich zerlege komplexe Probleme gern in überschaubare Teile, probiere Dinge praktisch aus und möchte verstehen, *warum* etwas funktioniert – nicht nur, *dass* es funktioniert. Gute Software ist für mich nachvollziehbar, wartbar und möglichst unspektakulär zuverlässig.
+I like breaking complex problems into clear parts and understanding *why* something works—not just *that* it works.
 
-Mein Weg zur Software führte über Elektronik und Nachrichtentechnik. Seitdem durfte ich an ganz unterschiedlichen Systemen arbeiten: von Schienenfahrzeugen über Medizintechnik bis zur Robotik. Hier auf GitHub stehen aber vor allem eigene Projekte, Experimente und Lösungen im Mittelpunkt, die vielleicht auch anderen nützlich sind.
+My background spans electronics, communications engineering, rail systems, medical technology, and robotics.
 
-## Kurz gesagt
-
-```text
-Embedded systems + Linux + Neugier
-           ↓
- Dinge verstehen, verbessern und teilen
-```
-
-Ich freue mich über interessante Projekte, gute Ideen und den Austausch mit Menschen, die Technik ebenfalls gern bis ins Detail verstehen.
+This GitHub profile is where I share personal projects, experiments, and solutions that may be useful to others.
