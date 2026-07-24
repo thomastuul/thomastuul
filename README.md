@@ -7,7 +7,6 @@ Embedded systems, Linux and developer tooling.
 - Embedded development in C and C++
 - Linux systems and desktop tooling
 - Microcontrollers, bootloaders and field buses
-- CAN, CANopen and LIN
 - Testing, static analysis and reproducible builds
 
 ## Toolchain
