@@ -11,7 +11,7 @@ Embedded systems, Linux and developer tooling.
 
 ## Toolchain
 
-`C` · `C++` · `Python` · `Bash` · `CMake` · `Docker` · `GitHub Actions`
+`C` · `C++` · `Python` · `Bash` · `CMake` · `Docker` · `GitHub Actions` · `AI-assisted engineering`
 
 ## Selected projects
 
