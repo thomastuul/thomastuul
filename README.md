@@ -1,17 +1,20 @@
-# Hi, I'm Thomas 👋
+# Thomas Tuul
 
-I enjoy building software that reaches beyond the screen and interacts with the real world.
+Embedded systems, Linux and developer tooling.
 
-My technical home is somewhere between **embedded systems**, **Linux**, electronics, and reliable developer tooling.
+## Focus
 
-## What I work with
+- Embedded development in C and C++
+- Linux systems and desktop tooling
+- Microcontrollers, bootloaders and field buses
+- CAN, CANopen and LIN
+- Testing, static analysis and reproducible builds
 
-- Embedded development in **C and C++**
-- Practical tools and automation in **Python and Bash**
-- **Linux**, CMake, Docker, CI/CD, and reproducible environments
-- Microcontrollers, bootloaders, CAN, CANopen, and LIN
-- Testing, static analysis, simulation, and control systems
+## Toolchain
 
-My background spans electronics, communications engineering, rail systems, medical technology, and robotics.
+`C` · `C++` · `Python` · `Bash` · `CMake` · `Docker` · `GitHub Actions`
 
-This GitHub profile is where I share personal projects, experiments, and solutions that may be useful to others.
+## Selected projects
+
+- [Sliverbar](https://github.com/thomastuul/sliverbar) — Linux desktop bar and system utilities
+- [Dotfiles](https://github.com/thomastuul/Dotfiles) — Linux configuration and supporting tools
