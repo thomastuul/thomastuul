@@ -12,6 +12,10 @@ Currently developing **[Sliverbar](https://github.com/thomastuul/sliverbar)** â€
 
 A lightweight native desktop panel written in **C17** for Linux systems running X11.
 
+[![Sliverbar desktop panel](https://raw.githubusercontent.com/thomastuul/sliverbar/master/docs/images/sliverbar-blocks.png)](https://github.com/thomastuul/sliverbar)
+
+**[View Sliverbar on GitHub â†’](https://github.com/thomastuul/sliverbar)**
+
 Sliverbar uses **XCB, Cairo, Pango and EWMH** and provides enhanced integration with bspwm while remaining usable with other EWMH-compatible window managers.
 
 Highlights:
