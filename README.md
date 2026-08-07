@@ -4,8 +4,6 @@
 
 I work primarily with C and C++ on Linux, with an emphasis on maintainable systems software, reproducible builds, testing and practical engineering.
 
-Currently developing **[Sliverbar](https://github.com/thomastuul/sliverbar)** — a native C17 desktop panel for Linux/X11.
-
 ## Featured project
 
 ### [Sliverbar](https://github.com/thomastuul/sliverbar)
