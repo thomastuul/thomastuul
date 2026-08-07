@@ -14,8 +14,6 @@ A lightweight native desktop panel written in **C17** for Linux systems running 
 
 [![Sliverbar desktop panel](https://raw.githubusercontent.com/thomastuul/sliverbar/master/docs/images/sliverbar-blocks.png)](https://github.com/thomastuul/sliverbar)
 
-**[View Sliverbar on GitHub →](https://github.com/thomastuul/sliverbar)**
-
 Sliverbar uses **XCB, Cairo, Pango and EWMH** and provides enhanced integration with bspwm while remaining usable with other EWMH-compatible window managers.
 
 Highlights:
@@ -24,18 +22,12 @@ Highlights:
 * C17 with CMake
 * XCB, Cairo, Pango and GLib/GIO
 * EWMH and bspwm workspace integration
-* Configurable desktop modules
-* Native application launcher and power controls
-* Runtime diagnostics and configuration validation
-* Automated GCC and Clang builds
-* ASan/UBSan testing
-* Static analysis with clang-tidy
-* Automated tests under Xvfb
-* Docker and Podman development builds
-* Debian and Fedora packaging
-* GitHub Actions CI and release workflow
+* Native launcher, popups and power controls
+* GCC/Clang builds with ASan/UBSan and clang-tidy
+* Automated testing under Xvfb
+* Debian/Fedora packaging and GitHub Actions releases
 
-The project grew out of my own Linux desktop environment and is now developed as an independent, reusable open-source application.
+**[View Sliverbar on GitHub →](https://github.com/thomastuul/sliverbar)**
 
 ## Engineering focus
 
@@ -46,15 +38,13 @@ The project grew out of my own Linux desktop environment and is now developed as
 * Bootloaders and communication protocols
 * Debugging and fault analysis
 * Automated testing and CI
-* Static analysis
-* Reproducible builds
-* Open-source development
+* Static analysis and reproducible builds
 
 ## Toolchain
 
 `C` · `C++` · `Bash` · `Python` · `CMake` · `Git` · `GDB` · `Docker` · `Podman` · `GitHub Actions` · `Linux` · `X11` · `XCB`
 
-## Other projects
+## Linux projects
 
 ### [bspwm desktop configuration](https://github.com/thomastuul/bspwm)
 
@@ -64,20 +54,20 @@ It contains the desktop configuration and the original Bash-based Lemonbar panel
 
 ### [Dotfiles](https://github.com/thomastuul/Dotfiles)
 
-Linux configuration, development environment and supporting tools.
+Linux configuration, shell environment and supporting command-line tools.
 
-## Development approach
+## Engineering principles
 
-I value software that is understandable, testable and robust rather than merely functional.
+I prefer software that is understandable, testable and robust rather than merely functional.
 
-That includes:
+My development approach emphasizes:
 
-* explicit failure handling
 * clear interfaces and ownership
+* explicit failure handling
 * reproducible development environments
 * automated verification
 * incremental refactoring
-* documentation of architectural decisions
-* using static analysis and sanitizers as part of normal development
+* documented architectural decisions
+* static analysis and sanitizers as part of normal development
 
 I also use AI-assisted development tools where they improve analysis, testing, review and implementation while keeping engineering decisions and validation explicit.
